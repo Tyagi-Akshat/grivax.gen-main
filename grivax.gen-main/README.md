@@ -129,7 +129,7 @@ This project is licensed under the **MIT License**.
 ---
 
 ## 📞 Contact
-For inquiries, open an issue or reach out via email at **22ucc123@lnmiit.ac.in**.
+For inquiries, open an issue or reach out via email at **23uec510@lnmiit.ac.in**.
 
 ---
 
